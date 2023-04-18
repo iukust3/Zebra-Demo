@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">DW DataCapture1</string>
+    <string name="app_name">Zebra Scanner</string>
     <string name="activity_intent_filter_action">com.zebra.datacapture1.ACTION</string>
     <string name="activity_action_from_service">com.zebra.datacapture1.service.ACTION</string>
     <string name="datawedge_intent_key_source">com.symbol.datawedge.source</string>

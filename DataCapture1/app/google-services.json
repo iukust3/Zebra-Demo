@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "341907854528",
+    "firebase_url": "https://video-maker-azim.firebaseio.com",
+    "project_id": "video-maker-azim",
+    "storage_bucket": "video-maker-azim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341907854528:android:fcfb1e69e1f735336c0925",
+        "android_client_info": {
+          "package_name": "com.ttapps.videomaker.slideshowmaker.moviemaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341907854528-ot2rb9b5iek4ansp2a9keorjdrhi403h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwFRar30sAPoyUiKiY7BGu1A8yzBp67vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341907854528-ot2rb9b5iek4ansp2a9keorjdrhi403h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341907854528:android:f28264e179a9ca006c0925",
+        "android_client_info": {
+          "package_name": "com.zebra.datacapture1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341907854528-ot2rb9b5iek4ansp2a9keorjdrhi403h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwFRar30sAPoyUiKiY7BGu1A8yzBp67vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341907854528-ot2rb9b5iek4ansp2a9keorjdrhi403h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
